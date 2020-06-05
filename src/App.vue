@@ -8,18 +8,7 @@
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-}
+  name: "App"
+};
 </script>
-
-<style lang="postcss" scoped>
-.fine {
-  color: green;
-
-  &__not {
-    color: red;
-  }
-}
-</style>

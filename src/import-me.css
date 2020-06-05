@@ -1,0 +1,5 @@
+.b {
+  &__nest {
+    display: block;
+  }
+}
